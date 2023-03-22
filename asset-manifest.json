@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ahamedmk/toto/static/css/main.86cd68c4.css",
+    "main.js": "/Ahamedmk/toto/static/js/main.9f5f862f.js",
+    "static/media/mk.jpg": "/Ahamedmk/toto/static/media/mk.4b02af848ac11f943de5.jpg",
+    "static/media/background_2.png": "/Ahamedmk/toto/static/media/background_2.dde9c1cfb65fe2aac82d.png",
+    "static/media/quranlogo.png": "/Ahamedmk/toto/static/media/quranlogo.db261d54b5a6c524aae7.png",
+    "index.html": "/Ahamedmk/toto/index.html",
+    "main.86cd68c4.css.map": "/Ahamedmk/toto/static/css/main.86cd68c4.css.map",
+    "main.9f5f862f.js.map": "/Ahamedmk/toto/static/js/main.9f5f862f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86cd68c4.css",
+    "static/js/main.9f5f862f.js"
+  ]
+}
